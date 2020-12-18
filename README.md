@@ -8,4 +8,5 @@ When used with windows:
 1. install linux subsystem via Windows Tools
 2. install ububtu from the windows 10 store
 3. type "bash" in the address bar of the file browser when being in the Script's folder
-4. type in the command prompt: bash MapUpdate-0-1.sh
+4. first time: run sudo apt.get install unzip
+5. type in the command prompt: bash MapUpdate-0-1.sh
